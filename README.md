@@ -1,6 +1,5 @@
 # Spam-Classification-Using-different-Machine-Learning-Algorithms
 
-Run:
-python main.py
-
-For dataset use enron spam dataset
+1. Extract dataset.zip
+2. Run: 
+    python main.py
